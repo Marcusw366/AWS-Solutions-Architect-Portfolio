@@ -39,15 +39,15 @@ The APPLICATION MUST:
 
 ## VPC Created
 
-![VPC Created](..Images/Lab01-01-VPC-Created.png)
+![VPC Created](../Images/Lab01-01-VPC-Created.png)
 
 ## Public Route Table
 
-![Public Route Table](..Images/Lab01-02-Public-Route-Table.png)
+![Public Route Table](../Images/Lab01-02-Public-Route-Table.png)
 
 ## Web Server Security Group
 
-![Web Server Security Group](..Images/Lab01-03-WebServer-SecurityGroup.png)
+![Web Server Security Group](../Images/Lab01-03-WebServer-SecurityGroup.png)
 
 ---
 
