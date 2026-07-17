@@ -47,15 +47,36 @@ The solution must:
 
 ---
 
-## Architecture Diagram
-(To be added after completing lab)
-
----
-
 ## Screenshots
-(to be addesd after completing the lab.)
 
+## Lambda Function
+![Lambda Function ](../images/Lab03-01-Lambda-Code.png)
+
+## Lambda Test
+![Lambda Test](../images/Lab03-02-Lambda-Test-Success.png)
+
+## API Gateway
+![API Gateway](../images/Lab03-03-API-Gateway-Trigger.png)
+
+## Browser Response
+![Browser Response](../images/Lab03-04-Weather-API-Response.png)
+
+## Architecture Diagram
+![Architecture](../images/Lab03-05-Architecture%20.png)
+ 
 ---
 
 ## Lessons learned
-(to be completed after finishing the lab.)
+During this lab I built a complete serverless weather application using AWS Lambda and API Gateway.
+
+Key concepts learned:
+
+- Created a Python Lambda function to retrieve live weather information.
+- Used the Open-Meteo REST API to collect weather data.
+- Parsed JSON responses using Python.
+- Returned custom JSON output from a Lambda function.
+- Tested the application directly from AWS.
+- Verified the application from a public browser endpoint.
+- Learned how API Gateway acts as the public entry point to the serverless applications.
+- Learned that Lambda automatically scales without managing servers.
+- Gained experience debugging API requests and correcting HTTP 404 errors.
