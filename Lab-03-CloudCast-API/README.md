@@ -62,7 +62,7 @@ The solution must:
 ![Browser Response](../images/Lab03-04-Weather-API-Response.png)
 
 ## Architecture Diagram
-![Architecture](../images/Lab03-05-Architecture%20.png)
+![Architecture](../images/Lab03-05-Architecture.png)
  
 ---
 
