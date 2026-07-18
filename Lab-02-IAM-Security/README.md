@@ -75,11 +75,11 @@ Lab02-S3-ReadOnly-CustomPolicy
 
 ### Lambda Execution Role
 
-![Lambda Execution Role](../Images/Lab02-01-Lambda-Execution-Role.png)
+![Lambda Execution Role](../images/Lab02-01-Lambda-Execution-Role.png)
 
 ### Custom IAM Policy
 
-![Custom IAM Policy](../Images/Lab02-02-Custom-IAM-Policy.png)
+![Custom IAM Policy](../images/Lab02-02-Custom-IAM-Policy.png)
 
 ---
 
