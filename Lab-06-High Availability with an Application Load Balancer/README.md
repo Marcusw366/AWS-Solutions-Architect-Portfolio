@@ -45,15 +45,19 @@ CloudCast-Web-Server      CloudCast-Web-Server-2
  ## Screenshots
 
  
-
+# AMI Available
 ![AMI Available](./images/Lab06-01-AMI-Available.png)
 
+# Launch Second Server
 ![Launch Second Server](./images/Lab06-02-Launch-Second-Server.png)
 
+# Two Web Server
 ![Two Web Servers](images/Lab06-03-Two-Web-Servers.png)
 
+# Target Group Created
 ![Target Group Created](images/Lab06-04-Target-Group-Created.png)
 
+# Healthy Targets
 ![Healthy Targets](images/Lab06-05-Healthy-Targets.png)
 
 ---
